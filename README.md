@@ -10,6 +10,8 @@ _<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando par
 ![Arthur Git Info](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSalesFM&theme=dracula)
 
 
+
+
 ### Minhas Skills e Ferramentas.
 
 ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,6 +35,8 @@ _<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando par
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 
+
+
 ### Tecnologias em Estudo
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +47,8 @@ _<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando par
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
 
 
 #### Entre em contato.
