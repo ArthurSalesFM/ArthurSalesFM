@@ -10,7 +10,7 @@ _<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando par
 ![Arthur Git Info](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSalesFM&theme=dracula)
 
 
-### Minhas Skills.
+### Minhas Skills e Ferramentas.
 
 ![Linux](	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
