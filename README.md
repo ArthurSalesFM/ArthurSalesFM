@@ -2,7 +2,7 @@
 
 _<center>Olá, sou o Arthur Felipe, e esse é meu perfil aqui no Git, é um prazer te ver aqui, fique a vontade!</center>_
 
-_<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando para dominar o Front End, e sou Entusiasta de tecnologias de desenvolvimento!</center>_
+_<center>✔️ Resumindo, sou Desenvolvedor Back-End, mas estou me dedicando para dominar o Front End, e sou Entusiasta de tecnologias de desenvolvimento de forma geral!</center>_
 
 
 ![Arthur Git Status](https://github-readme-stats.vercel.app/api?username=ArthurSalesFM&theme=dracula)
