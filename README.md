@@ -1,6 +1,6 @@
 ## Olá! Seja Bem Vindo 👋
 
-_<center>Olá sou o Arthur Felipe, e esse é meu perfil aqui no Git, é um prazer te ver aqui, fique a vontade!</center>_
+_<center>Olá, sou o Arthur Felipe, e esse é meu perfil aqui no Git, é um prazer te ver aqui, fique a vontade!</center>_
 
 _<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando para dominar o Front End, e sou Entusiasta de tecnologias de desenvolvimento!</center>_
 
