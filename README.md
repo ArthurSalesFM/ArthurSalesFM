@@ -54,5 +54,5 @@ _<center>✔️ Resumindo, sou Desenvolvedor Backend, mas estou me dedicando par
 #### Entre em contato.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-felipe-07b87b119/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com) sales.arthur.fm@gmail.com
 
