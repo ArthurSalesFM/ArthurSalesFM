@@ -2,7 +2,7 @@
 
 _<center>Olá, sou o Arthur Felipe, e esse é meu perfil aqui no Git, é um prazer te ver aqui, fique a vontade!</center>_
 
-_<center>✔️ Apesar de gostar do Back-End, mas estou me dedicando para dominar o Front-End, e sou Entusiasta de tecnologias de desenvolvimento de forma geral!</center>_
+_<center>✔️ Apesar de gostar do Back-End, estou me dedicando para dominar o Front-End, e sou um Entusiasta de tecnologias de desenvolvimento de forma geral!</center>_
 
 _<center>✔️ Disponível para trabalhar como Júnior ou esttágio na área!</center>_
 
@@ -23,6 +23,8 @@ _<center>✔️ Disponível para trabalhar como Júnior ou esttágio na área!</
 ![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![markdown](	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgre](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
