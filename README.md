@@ -6,7 +6,7 @@
 
 _<center>✔️ Apesar de gostar do Back-End, estou me dedicando para dominar o Front-End, e sou um Entusiasta de tecnologias de desenvolvimento de forma geral!</center>_
 
-_<center>✔️ Disponível para trabalhar como esttagiário ou Júnior(Front-end, Mobile)  ou pleno(Back-end) em Java!</center>_
+_<center>✔️ Disponível para trabalhar como esttagiário/Júnior(Front-end, Mobile)  ou Júnior/pleno(Back-end) em Java!</center>_
 
 [//]: # (Análises)
 #####
