@@ -4,9 +4,13 @@
 [//]: # (Apresentação)
 #### _<center>Olá, sou o Arthur Felipe, e esse é meu perfil aqui no Git, é um prazer te ver aqui, fique a vontade!</center>_
 
-_<center>✔️ Apesar de gostar do Back-End, estou me dedicando para dominar o Front-End, e sou um Entusiasta de tecnologias de desenvolvimento de forma geral!</center>_
+_<center>✔️ FULL-STACK </center>_
 
-_<center>✔️ Disponível para trabalhar como estagiário/Júnior(Front-end Web, Mobile), estagiário/Júnior(Full-Stack) ou estagiário/Júnior/pleno(Back-end) em Java de preferência!</center>_
+_<center>✔️ FREELANCER </center>_
+
+_<center>✔️ Desenvolva seu SITE, _*Seu Orçamento é GRÁTIS*_ </center>_
+
+_<center>✔️ _Entre em Contato:_ _*sales.arthur.fm@gmail.com*_ </center>_
 
 [//]: # (Análises)
 #####
@@ -39,13 +43,14 @@ _<center>✔️ Disponível para trabalhar como estagiário/Júnior(Front-end We
 #####
 ##### \_Linguagens de Marcação\__________
 ![markdown](	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 [//]: # (Linguagens de Estilização)
 #####
-##### \_Linguagens de Estilização\__________
+##### \_Front-end\__________
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 [//]: # (Banco de Dados)
@@ -87,7 +92,6 @@ _<center>✔️ Disponível para trabalhar como estagiário/Júnior(Front-end We
 [//]: # (Estudando)
 #####
 ## Tecnologias em Estudo
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
