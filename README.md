@@ -8,8 +8,6 @@ _<center>✔️ FULL-STACK </center>_
 
 _<center>✔️ FREELANCER </center>_
 
-_<center>✔️ Desenvolva seus projetos Aqui, _*Seu Orçamento é GRÁTIS*_ </center>_
-
 _<center>✔️ _Entre em Contato:_ _*sales.arthur.fm@gmail.com*_ </center>_
 
 [//]: # (Análises)
